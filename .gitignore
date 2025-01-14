@@ -1,0 +1,4 @@
+venv
+attendance.db
+.venv
+faces/*
